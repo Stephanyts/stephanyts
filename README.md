@@ -1,8 +1,7 @@
+<!--
 ## Hi there 👋
 <div id="header" align="left">
 My name is Stephany Torres
-
-<!--
 ### :woman_technologist: Sobre mí : 
 Apasionada de la tecnología y disfrutando de una transición laboral a QA engineer
 
