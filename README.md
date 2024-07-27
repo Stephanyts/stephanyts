@@ -3,7 +3,7 @@
 </div>
 
 <div id="shields" align="center">
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-torres-sa/)
+ <img decoding="async" src=[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-torres-sa/)
 </div>
 
 ## Hi there 👋
