@@ -23,3 +23,9 @@
     <img src="https://skillicons.dev/icons?i=postman,postgres,py" />
   </a>
 </p>
+
+---
+
+### :hammer_and_wrench: My stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephanyts&theme=dark&background=000000)](https://git.io/streak-stats)
