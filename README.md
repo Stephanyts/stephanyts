@@ -18,9 +18,6 @@
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-
-[![My Skills](https://skillicons.dev/icons?i=postman,postgres,py&theme=light)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,postgres,py" />
