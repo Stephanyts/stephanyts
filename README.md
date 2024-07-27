@@ -14,3 +14,16 @@
 - 🌱 I'm searching someone Collaborate with someone to expand my code language knowledge in Python.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephany-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-torres-sa/)
 📧 stephanyts54@gmail.com 
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="postgres"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="postman"/>
+  </a>
+
+</div>
