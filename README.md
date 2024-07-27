@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/stephanyts/stephanyts/blob/main/Banner%20Github.png" width="800"/>
-</div>
-
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-torres-sa/)
 
@@ -15,3 +13,4 @@
 - 🌱 I'm searching someone Collaborate with someone to expand my code language knowledge in Python.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephany-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-torres-sa/)
 - 📧 stephanyts54@gmail.com 
+</div>
